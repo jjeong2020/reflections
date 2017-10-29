@@ -9,3 +9,6 @@ When you want to create a different version of the code, such as an easier versi
 
 How do the diagrams help you visualize the branch structure?
 They allow you to see which parts are related and which parts go under which branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It puts all the changes together into one branch. We represent it like that because you choose which branch to merge it in; in this case, it was the master branch.
