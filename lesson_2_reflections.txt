@@ -12,3 +12,6 @@ They allow you to see which parts are related and which parts go under which bra
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It puts all the changes together into one branch. We represent it like that because you choose which branch to merge it in; in this case, it was the master branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+In automatic merging, Git automatically determines what commits will be in the final branch. Manually, you can choose what commits go in and what commits do not. This helps avoid any confusion.
