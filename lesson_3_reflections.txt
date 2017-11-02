@@ -12,3 +12,6 @@ You have local access to the most updated state of the remote.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 You would probably work on the same device rather than being able to remotely access each other's work from different locations.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you want to request a pull. You can put the changes in a separate branch then push it to GitHub for a collaborator to review. This allows both collaborators to know what changes are being made, and a collaborator can check for any mistakes. 
