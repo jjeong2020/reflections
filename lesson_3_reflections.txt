@@ -9,3 +9,6 @@ Forks allow you to make a copy of somebody else's repository directly on the Git
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You have local access to the most updated state of the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+You would probably work on the same device rather than being able to remotely access each other's work from different locations. 
